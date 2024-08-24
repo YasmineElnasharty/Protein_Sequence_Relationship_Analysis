@@ -32,10 +32,11 @@ This project focuses on analyzing and comparing the sequences of two significant
 ### Installation
 Clone the repository and install the required Python packages:
 ```bash
+
 git clone https://github.com/yourusername/protein-sequence-analysis.git
 cd protein-sequence-analysis
 pip install -r requirements.txt
-
+__________________________________________________
 ##License
 This project is licensed under the MIT License.
 
