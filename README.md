@@ -32,19 +32,18 @@ This project focuses on analyzing and comparing the sequences of two significant
 ### Installation
 Clone the repository and install the required Python packages:
 ```bash
-
 git clone https://github.com/yourusername/protein-sequence-analysis.git
 cd protein-sequence-analysis
 pip install -r requirements.txt
 ```
 
-##License
+**License**
 This project is licensed under the MIT License.
 
-##Acknowledgments
+**Acknowledgments**
 UniProtKB: For providing comprehensive protein sequence data.
 NCBI: For the BLAST tool.
 SWISS-MODEL and InterProScan: For structure prediction and functional annotation.
 
-##Contact
+**Contact**
 For questions or collaborations, please contact [elnashartyasmine@gmail.com].
