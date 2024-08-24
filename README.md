@@ -37,13 +37,13 @@ cd protein-sequence-analysis
 pip install -r requirements.txt
 ```
 
-**License**
--This project is licensed under the MIT License.
+### License
+This project is licensed under the MIT License.
 
-**Acknowledgments**
--**UniProtKB:** For providing comprehensive protein sequence data.
--**NCBI:** For the BLAST tool.
--**SWISS-MODEL and InterProScan:** For structure prediction and functional annotation.
+### Acknowledgments
+- **UniProtKB:** For providing comprehensive protein sequence data.
+- **NCBI:** For the BLAST tool.
+- **SWISS-MODEL and InterProScan:** For structure prediction and functional annotation.
 
-**Contact**
--For questions or collaborations, please contact [elnashartyasmine@gmail.com].
+### Contact
+For questions or collaborations, please contact [elnashartyasmine@gmail.com].
