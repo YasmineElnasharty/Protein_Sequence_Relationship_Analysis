@@ -45,5 +45,5 @@ This project is licensed under the MIT License.
 - **NCBI:** For the BLAST tool.
 - **SWISS-MODEL and InterProScan:** For structure prediction and functional annotation.
 
-### Contact
-For questions or collaborations, please contact [elnashartyasmine@gmail.com].
+## Contact
+For questions, contact [Yasmine Elnasharty](elnashartyasmine@gmail.com).
