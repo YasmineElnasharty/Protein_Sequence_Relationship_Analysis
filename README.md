@@ -36,7 +36,8 @@ Clone the repository and install the required Python packages:
 git clone https://github.com/yourusername/protein-sequence-analysis.git
 cd protein-sequence-analysis
 pip install -r requirements.txt
-__________________________________________________
+```
+
 ##License
 This project is licensed under the MIT License.
 
