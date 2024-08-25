@@ -25,6 +25,7 @@ This project focuses on analyzing and comparing the sequences of two significant
 - **Evolutionary Linkages:** Close evolutionary relationships between HSA and Actin, highlighting shared functional traits.
 
 ## Getting Started
+
 ### Prerequisites
 - Python 3.x
 - Required libraries: NumPy, Biopython, Matplotlib
