@@ -1,4 +1,4 @@
-# Deciphering_Protein_Sequence_Relationships
+# Protein_Sequence_Relationship_Analysis
 
 ## Overview
 This project focuses on analyzing and comparing the sequences of two significant human proteins: Human Serum Albumin (HSA) and Human Actin, Alpha Skeletal Muscle. By utilizing Python-based tools and bioinformatics resources such as BLAST, SWISS-MODEL, and InterProScan, we aim to uncover insights into the functional, structural, and evolutionary aspects of these proteins.
