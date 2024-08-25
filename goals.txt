@@ -1,0 +1,5 @@
+1-Understanding Functional Domains: Explore how protein domains contribute to protein functionality and their role in cellular mechanisms, aiding in the development of new therapies.
+
+2-Predicting Protein Structures: Use protein structure prediction to uncover essential aspects of protein functionality, aiding in drug development by targeting specific proteins.
+
+3-Analyzing Evolutionary Relationships: Study protein evolutionary relationships to identify conserved regions, understand protein functions, and discover potential drug targets across different organisms.
